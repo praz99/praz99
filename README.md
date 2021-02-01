@@ -1,20 +1,6 @@
-<!--
-**praz99/praz99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2 align='center'><samp><strong>Hi there 👋, I am Prajwal Thapa</span> :nepal: :poland:</strong></samp></h2>
-<h3 align='center'><strong><a href="https://praz99.github.io/" target="_blank">My Portfolio :computer_mouse: </a></strong></h3>
+<h2 align='center'><samp><strong>Hi there 👋, I am Prajwal Thapa (He/Him)</span> :nepal: :poland:</strong></samp></h2>
 <p align='center'>Full-stack Web Developer | Ruby | Ruby on Rails | JavaScript | React | Redux</p>
+<h3 align='center'><strong><a href="https://praz99.github.io/" target="_blank">My Portfolio :computer_mouse: </a></strong></h3>
 
 <div align='center'>
 
@@ -35,8 +21,9 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
-![RSpec](https://img.shields.io/badge/-RSpec-000000?style=flat&logo=rspec&logoColor=C21325&labelColor=ffffff)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
+<!-- ![RTL](https://img.shields.io/badge/-React%20Testing%20Library-000000?style=flat&logo=react-testing-library&logoColor=C21325&labelColor=ffffff)
+![REpec](https://img.shields.io/badge/RSpec-000000?style=flat&logo=RSpec&logoColor=C21325&labelColor=ffffff) -->
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=C21325&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
@@ -52,7 +39,7 @@ Here are some ideas to get you started:
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Remote Programming`, `Pair-Programming`, `TDD`, `BDD`
+`Responsive web design` `Object-Oriented Programming` `Data Structures and Algorithms` `Remote Programming` `Pair-Programming` `TDD` `BDD`
 
 🌱 **Currently Learning:** <br>
 
