@@ -12,28 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!--
-
-## Complete list of github markdown emoji markup
-https://gist.github.com/rxaviers/7360908
-
-## technologies Icons 
-https://simpleicons.org/
-
--->
-📝 ***How to reach me? :thinking: *** ![](https://img.shields.io/github/followers/praz99?label=Follow&style=social)
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Prajwal%20Thapa-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/prazwal-thapa/)
-[![Mail](https://img.shields.io/badge/Mail-t.prazwal@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:t.prazwal@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@thapa_praz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/thapa_praz)
-
-<h2 align='center'><samp><strong>Hi there 👋, I am <span style="color: green">Prajwal Thapa</span></strong></samp></h2>
-<h3 align='center'><strong><a href="https://ahmad-sawalqeh.github.io/my_resume/" target="_blank">About Me🌐</a></strong></h3>
+<h2 align='center'><samp><strong>Hi there 👋, I am Prajwal Thapa</span> :nepal: :poland:</strong></samp></h2>
+<h3 align='center'><strong><a href="https://praz99.github.io/" target="_blank">My Portfolio :computer_mouse: </a></strong></h3>
 <p align='center'>Full-stack Web Developer | Ruby | Ruby on Rails | JavaScript | React | Redux</p>
 
-<p align='left'></p>
+<div align='center'>
+
+  ![](https://img.shields.io/github/followers/praz99?label=Follow&style=social)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-Prajwal%20Thapa-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://linkedin.com/in/prazwal-thapa/)
+  [![Twitter](https://img.shields.io/badge/Twitter-@thapa_praz-blue?logo=Twitter&logoColor=blue&labelColor=black)](https://twitter.com/thapa_praz)
+  [![Mail](https://img.shields.io/badge/Mail-t.prazwal@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:t.prazwal@gmail.com)
+
+</div>
 
 💻 **Languages and Tools:** 🛠️<br>
 
@@ -62,9 +52,9 @@ https://simpleicons.org/
 
 🧐 **Knowledge of:**<br>
 
-`Responsive web design`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Remote Programming`, `Pair-Programming`
+`Responsive web design`, `Object-Oriented Programming`, `Data Structures and Algorithms`, `Remote Programming`, `Pair-Programming`, `TDD`, `BDD`
 
-📚 **Currently Learning:** <br>
+🌱 **Currently Learning:** <br>
 
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=ffffff&labelColor=000000)
