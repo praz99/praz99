@@ -36,17 +36,6 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=heroku&labelColor=430098)
 ![Netlify](https://img.shields.io/badge/-Netlify-000000?style=flat&logo=netlify&labelColor=000000)
 
-
-🧐 **Knowledge of:**<br>
-
-`Responsive web design` `Object-Oriented Programming` `Data Structures and Algorithms` `Remote Programming` `Pair-Programming` `TDD` `BDD`
-
-🌱 **Currently Learning:** <br>
-
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwind-css&logoColor=ffffff&labelColor=000000)
-
-
 🤓 **Interested:** <br>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
