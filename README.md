@@ -17,13 +17,18 @@
 ![RoR](https://img.shields.io/badge/-Rails-000000?style=flat&logo=ruby-on-rails&logoColor=F05032&labelColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![GatsbyJS](https://img.shields.io/badge/-Gatsby-000000?style=flat&logo=gatsby)
+![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&logo=nextdotjs)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Node](https://img.shields.io/badge/-NodeJS-000000?style=flat&logo=node.js&labelColor=000000)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&labelColor=000000)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
 ![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
-<!-- ![RTL](https://img.shields.io/badge/-React%20Testing%20Library-000000?style=flat&logo=react-testing-library&logoColor=C21325&labelColor=ffffff)
-![REpec](https://img.shields.io/badge/RSpec-000000?style=flat&logo=RSpec&logoColor=C21325&labelColor=ffffff) -->
+![RTL](https://img.shields.io/badge/-React%20Testing%20Library-000000?style=flat&logo=rtl&logoColor=C21325&labelColor=ffffff)
+![Cypress](https://img.shields.io/badge/-Cypress-000000?style=flat&logo=cypress&logoColor=C21325&labelColor=ffffff)
+![RSpec](https://img.shields.io/badge/RSpec-000000?style=flat&logo=RSpec&logoColor=C21325&labelColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack&logoColor=C21325&labelColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
@@ -39,9 +44,6 @@
 🤓 **Interested:** <br>
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Node](https://img.shields.io/badge/-Node.JS-000000?style=flat&logo=node.js&labelColor=000000)
-![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&labelColor=000000)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 
 </br>
 <p style="display: flex; justify-content: flex-start;">
