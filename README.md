@@ -1,5 +1,5 @@
 <h2 align='center'><samp><strong>Hi there 👋, I am Prajwal Thapa (He/Him)</span> :nepal:</strong></samp></h2>
-<p align='center'>Full-stack Web Developer JavaScript | React | Redux | NodeJS | Express</p>
+<p align='center'>Full-stack Web Developer JavaScript | React | Redux | NodeJS | Express | Ruby | Ruby on Rails</p>
 <h3 align='center'><strong><a href="https://praz99.github.io/" target="_blank">My Portfolio :computer_mouse: </a></strong></h3>
 
 <div align='center'>
